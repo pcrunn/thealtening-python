@@ -1,0 +1,1 @@
+py thealtening.py >> yes.txt
