@@ -1,3 +1,3 @@
 # thealtening-python
-You will need an API key to run this. (edit Python file to add your API key)
-You might also need to use a .bat or .sh file so you can see the output.
+You will need an API key to run this. (edit Python file to add your API key) 
+The BAT provided whenever ran will run the Python script, then save the results to a txt file.
